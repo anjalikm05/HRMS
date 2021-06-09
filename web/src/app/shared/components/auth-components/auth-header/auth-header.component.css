@@ -1,0 +1,13 @@
+.header {
+    padding: 0px 50px !important;
+}
+.logo {
+    margin-right: 20px;
+}
+.spacer {
+    flex: 1 1 auto;
+}
+button {
+    margin: auto 10px;
+    font-size: large;
+}
