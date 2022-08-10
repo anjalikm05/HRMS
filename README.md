@@ -5,9 +5,18 @@
 * make sure Node and NPM are installed and their PATHs defined
   * node -v
   * npm -v
-* navigate to api folder
+* navigate to the api folder
 * install the required packages from NPM
   * npm install
 * start the Node Server
   * node index.js
 * you should see your console.log message show up in your console, with port number 3000.
+
+## 2. Angular server - Frontend
+* navigate to the web folder
+* install angular
+  * npm install -g @angular/cli
+* install the required packages from NPM
+  * npm install
+* start the server
+  * ng serve --open
