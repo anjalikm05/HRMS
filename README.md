@@ -10,7 +10,7 @@
   * npm install
 * start the Node Server
   * node index.js
-* you should see your console.log message show up in your console, with port number 3000.
+* You should see your console.log message show up in your console, with port number 3000.
 
 ## 2. Angular server - Frontend
 * navigate to the web folder
@@ -20,3 +20,4 @@
   * npm install
 * start the server
   * ng serve --open
+* After a while, it spins up a server at localhost:4200 in default browser.
